@@ -3,7 +3,7 @@
   <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width">
-      <title>Portfolio site template</title>
+      <title>ALEMI BLESS Portfolio site</title>
       <link href="style.css" rel="stylesheet" type="text/css" />
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
       <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.png">
@@ -17,7 +17,7 @@
 		<!--────────────────Header───────────────-->
 	<header>
 		<a class="logo" href="#home">
-              <img src="https://newsletter-images--timmy-i-chen.repl.co/logo-light.png" alt="repl logo" />
+              <img src="https://www.linkedin.com/in/alemi-bless-0baa05215/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BCLn8MeoVQReO0OksdpW7Rg%3D%3D" alt="repl logo" />
 		</a>
 		<nav>	
 		 <ul class="nav-bar"><div class="bg"></div>
@@ -38,19 +38,20 @@
 	  <div id="home">
 		 <div class="filter"></div>
 		 <section class="intro">
-		  <h3>Your Name.<hr></h3>
-		  <p>Short Description.</p>
-		  <p>Something more about yourself.</p>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+		  <h3>ALEMI BLESS</h3><hr>
+		  <p>SOFTWARE ENGINEER</p>
+		  <p>NOTHING GREAT IS DEVELOPED ALONE</p>
+          <p>Python, Java, Javascript, HTML, CSS, R, MYSQL</p>
 			  
 		  <!--────social media links─────-->
 			 
 		  <div class="social-media">
-			  <a href="#" target="_blank"><i class='fab fa-codepen'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-twitter'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-github'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-linkedin-in'></i></a>
-			  <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+			  <a href="https://wa.me/message/YRYLLWD5UUI6J1" target="_blank"><i class='fab fa-whatsapp'></i></a>
+			  <a href="https://twitter.com/HE_ALEMI_BLESS" target="_blank"><i class='fab fa-twitter'></i></a>
+			  <a href="https://github.com/emiblezz" target="_blank"><i class='fab fa-github'></i></a>
+			  <a href="https://www.linkedin.com/in/alemi-bless-0baa05215" target="_blank"><i class='fab fa-linkedin-in'></i></a>
+			  <a href="https://youtube.com/channel/UCntMCCFnYKjEyJZhS61Njzw" target="_blank"><i class="fab fa-youtube"></i></a>
+			  <a href="https://instagram.com/emi_blezz?r=nametag" target="_blank"><i class='fab fa-instagram'></i></a>
 		    </div>
 			 
 		 </section> 
@@ -65,8 +66,8 @@
 		<!--───────────────card───────────────-->
 			<div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1518611507436-f9221403cca2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80">
-			    <a href="" target="_blank"> <!--Link to project-->
-				<div class="work-content">Lorem ipsum dolor sit amet consectetur.</div></a>
+			    <a href="http://alemibless.ml/" target="_blank"> <!--Link to project-->
+				<div class="DYNAMIC CV.</div></a>
             </div>
 			<div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?ixlib=rb-1.2.1&auto=format&fit=crop&w=1266&q=80">
@@ -103,17 +104,18 @@
 		   <h3>Contact.<hr></h3>
 		   <p>Feel free to contact me on my social media.</p>
 		    <div class="social-media">
-			  <a href="#" target="_blank"><i class='fab fa-codepen'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-twitter'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-github'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-linkedin-in'></i></a>
-			  <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+			  <a href="https://wa.me/message/YRYLLWD5UUI6J1" target="_blank"><i class='fab fa-whatsapp'></i></a>
+			  <a href="https://twitter.com/HE_ALEMI_BLESS" target="_blank"><i class='fab fa-twitter'></i></a>
+			  <a href="https://github.com/emiblezz" target="_blank"><i class='fab fa-github'></i></a>
+			  <a href="https://www.linkedin.com/in/alemi-bless-0baa05215" target="_blank"><i class='fab fa-linkedin-in'></i></a>
+			  <a href="https://youtube.com/channel/UCntMCCFnYKjEyJZhS61Njzw" target="_blank"><i class="fab fa-youtube"></i></a>
+			  <a href="https://instagram.com/emi_blezz?r=nametag" target="_blank"><i class='fab fa-instagram'></i></a>
 		    </div>
 		  </div>
 
 	</main>
 	  <footer class="copyright">© 2020 
-		  <a href="https://repl.it/@lilykhan" target="_blank"> Lilykhan.</a>
+		  <a href="https://repl.it/@lilykhan" target="_blank"> ALEMI BLESS.</a>
      </footer>
 	  
   </div>
