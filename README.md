@@ -72,8 +72,8 @@
             </div>
 			<div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?ixlib=rb-1.2.1&auto=format&fit=crop&w=1266&q=80">
-				<a href="" target="_blank"> <!--Link to project-->
-				<div class="work-content">Lorem ipsum dolor sit amet consectetur.</div></a>
+				<a href="https://emiblezz.github.io/BroLite/" target="_blank"> <!--Link to project-->
+				<div class="work-content">SOCIAL MEDIA APPLICATION.</div></a>
             </div>
             <div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1485815457792-d1a966f9bde0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80">
