@@ -39,7 +39,6 @@
 		<div class="filter"></div>
 		<section class="intro">
 		  <h3>ALEMI BLESS.</h3>
-		  <h3><hr><\h3>
 		   <p>SOFTWARE ENGINEER</p>
 		   <p>NOTHING GREAT IS DEVELOPED ALONE</p>
           	   <p>Python, Java, Javascript, HTML, CSS, R, MYSQL</p>
