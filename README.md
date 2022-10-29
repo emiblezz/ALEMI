@@ -36,12 +36,12 @@
 	<main>
 		<!--─────────────────Home────────────────-->
 	  <div id="home">
-		 <div class="filter"></div>
-		 <section class="intro">
-		  <h3>ALEMI BLESS.<HR></h3>
-		  <p>SOFTWARE ENGINEER</p>
-		  <p>NOTHING GREAT IS DEVELOPED ALONE</p>
-          <p>Python, Java, Javascript, HTML, CSS, R, MYSQL</p>
+		<div class="filter"></div>
+		<section class="intro">
+		  <h3>ALEMI BLESS.<hr></h3>
+		   <p>SOFTWARE ENGINEER</p>
+		   <p>NOTHING GREAT IS DEVELOPED ALONE</p>
+          	   <p>Python, Java, Javascript, HTML, CSS, R, MYSQL</p>
 			  
 		  <!--────social media links─────-->
 			 
@@ -103,7 +103,7 @@
 	  <div id="contact">
 		  <!--────social media links─────-->
 		   <h3>Contact.<hr></h3>
-		   <p>Feel free to contact me on my social media.</p>
+		    <p>Feel free to contact me on my social media.</p>
 		    <div class="social-media">
 			  <a href="https://wa.me/message/YRYLLWD5UUI6J1" target="_blank"><i class='fab fa-whatsapp'></i></a>
 			  <a href="https://twitter.com/HE_ALEMI_BLESS" target="_blank"><i class='fab fa-twitter'></i></a>
