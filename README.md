@@ -40,7 +40,8 @@
 		   <p>SOFTWARE ENGINEER</p>
 		   <p>NOTHING GREAT IS DEVELOPED ALONE</p>
           	   <p>Python, Java, Javascript, HTML, CSS, R, MYSQL</p>
-		   <p>RESUME:<a href="https://emiblezz.github.io/alemibless.github.com/" > <== <== <== <==</p>
+		   
+		   <a href="https://emiblezz.github.io/alemibless.github.com/" >RESUME</a> 
 			  
 		  <!--────social media links─────-->
 			 
