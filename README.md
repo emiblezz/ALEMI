@@ -110,7 +110,6 @@
 			  <a href="https://www.linkedin.com/in/alemi-bless-0baa05215" target="_blank"><i class='fab fa-linkedin-in'></i></a>
 			  <a href="https://youtube.com/channel/UCntMCCFnYKjEyJZhS61Njzw" target="_blank"><i class="fab fa-youtube"></i></a>
 			  <a href="https://instagram.com/emi_blezz?r=nametag" target="_blank"><i class='fab fa-instagram'></i></a>
-			  <a href="alemibless@gmail.com" target="_blank"><i class='fab fa-email'></i></a>
 		    </div>
 		  </div>
 
