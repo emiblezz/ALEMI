@@ -16,9 +16,7 @@
 	  
 		<!--────────────────Header───────────────-->
 	<header>
-		<a class="logo" href="#home">
-              <img src="https://www.linkedin.com/in/alemi-bless-0baa05215/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BCLn8MeoVQReO0OksdpW7Rg%3D%3D" alt="repl logo" />
-		</a>
+		
 		<nav>	
 		 <ul class="nav-bar"><div class="bg"></div>
 			<li><a class="nav-link active" href="#home">Home</a></li>
@@ -42,6 +40,7 @@
 		   <p>SOFTWARE ENGINEER</p>
 		   <p>NOTHING GREAT IS DEVELOPED ALONE</p>
           	   <p>Python, Java, Javascript, HTML, CSS, R, MYSQL</p>
+		   <p>RESUME:<a href="https://emiblezz.github.io/alemibless.github.com/" > <== <== <== <==</p>
 			  
 		  <!--────social media links─────-->
 			 
@@ -66,34 +65,34 @@
 		<!--───────────────card───────────────-->
 			<div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1518611507436-f9221403cca2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80">
-			    <a href="http://alemibless.ml/" target="_blank"> <!--Link to project-->
-			    <div class="work-content">DYNAMIC CV.</div></a>	    
+			    <a href="https://emiblezz.github.io/alemibless.github.com/" target="_blank"> <!--Link to project-->
+			    <div class="work-content">Project 1</div></a>	    
 				
             </div>
 			<div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?ixlib=rb-1.2.1&auto=format&fit=crop&w=1266&q=80">
-				<a href="https://emiblezz.github.io/BroLite/" target="_blank"> <!--Link to project-->
-				<div class="work-content">SOCIAL MEDIA APPLICATION.</div></a>
+				<a href="alemibless.ml" target="_blank"> <!--Link to project-->
+				<div class="work-content">Project 2</div></a>
             </div>
             <div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1485815457792-d1a966f9bde0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80">
 				<a href="" target="_blank"> <!--Link to project-->
-				<div class="work-content">Lorem ipsum dolor sit amet consectetur.</div></a>
+				<div class="work-content">Project 3</div></a>
             </div>
             <div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1517842645767-c639042777db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
 				<a href="" target="_blank"> <!--Link to project-->
-				<div class="work-content">Lorem ipsum dolor sit amet consectetur.</div></a>
+				<div class="work-content">Project 4</div></a>
             </div> 
 			<div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1535556116002-6281ff3e9f36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=781&q=80">
-				<a href="" target="_blank"> <!--Link to project-->
-				<div class="work-content">Lorem ipsum dolor sit amet consectetur.</div></a>
+				<a href="" target=""> <!--Link to project-->
+				<div class="work-content">Project 5</div></a>
             </div>
 			<div class="card">
 			    <img class="work-img" src="https://images.unsplash.com/photo-1483546416237-76fd26bbcdd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
-				<a href="" target="_blank"> <!--Link to project-->
-				<div class="work-content">Lorem ipsum dolor sit amet consectetur.</div></a>
+				<a href="" target="alemibless.tk"> <!--Link to project-->
+				<div class="work-content">Project 6</div></a>
             </div> 	  
 		  </div>
 		  </div>
@@ -111,6 +110,7 @@
 			  <a href="https://www.linkedin.com/in/alemi-bless-0baa05215" target="_blank"><i class='fab fa-linkedin-in'></i></a>
 			  <a href="https://youtube.com/channel/UCntMCCFnYKjEyJZhS61Njzw" target="_blank"><i class="fab fa-youtube"></i></a>
 			  <a href="https://instagram.com/emi_blezz?r=nametag" target="_blank"><i class='fab fa-instagram'></i></a>
+			  <a href="alemibless@gmail.com" target="_blank"><i class='fab fa-email'></i></a>
 		    </div>
 		  </div>
 
@@ -128,18 +128,4 @@
   <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script>  
   </body>
 </html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
